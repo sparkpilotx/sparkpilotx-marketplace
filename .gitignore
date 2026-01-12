@@ -1,0 +1,23 @@
+# macOS System Files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Environment & Secrets
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+logs/
+
+# Temporary Files
+*.tmp
+.tmp/
+temp/
+
+# OS Generated Files
+# Windows
+Thumbs.db
+ehthumbs.db
