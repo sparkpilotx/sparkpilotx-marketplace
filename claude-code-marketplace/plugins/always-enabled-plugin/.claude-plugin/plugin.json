@@ -5,5 +5,8 @@
   "author": {
     "name": "sparkpilot",
     "repository": "https://github.com/sparkpilotx/sparkpilotx-marketplace/claude-code-marketplace/always-enabled-plugin"
-  }
+  },
+  "commands": [
+    "./commands/repo/commit.md"
+  ]
 }
