@@ -1,0 +1,9 @@
+{
+  "name": "always-enabled-plugin",
+  "description": "An indivisual plugin that always being enabled across projects",
+  "version": "1.0.0",
+  "author": {
+    "name": "sparkpilot",
+    "repository": "https://github.com/sparkpilotx/sparkpilotx-marketplace/claude-code-marketplace/always-enabled-plugin"
+  }
+}

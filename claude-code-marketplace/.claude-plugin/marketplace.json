@@ -1,0 +1,13 @@
+{
+  "name": "sparkpilotx-claude-code-marketplace",
+  "owner": {
+    "name": "sparkpilot"
+  },
+  "plugins": [
+    {
+      "name": "always-enabled-plugin",
+      "source": "./always-enabled-plugin",
+      "description": "An indivisual plugin that always being enabled across projects"
+    }
+  ]
+}
